@@ -1,5 +1,7 @@
 # ShipDetect
 简单的使用AlexNet网络检测光学遥感影像中的船舶
+## 效果图
+![pic](https://github.com/Astrophel02/ShipDetect/blob/main/捕获.PNG?raw=true)
 ## 项目背景
 人工智能基础的结课作业（逃
 ## 项目内容
