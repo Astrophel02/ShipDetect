@@ -1,0 +1,2 @@
+# ShipDetect
+简单的使用AlexNet网络检测光学遥感影像中的船舶
